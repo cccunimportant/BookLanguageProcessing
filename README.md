@@ -1,4 +1,4 @@
-### 語言處理技術
+### 簡介
 
 本書涵蓋「自然語言、程式語言、標記語言」處理等領域，包含語法、語意、編譯、計算語言學、自然語言理解、交談系統、機器翻譯等主題。
 
@@ -6,27 +6,23 @@
 
 ### 書籍下載
 
-您可以點選 [SlideShare 預覽] 或者 [docin 預覽] 等連結閱讀本雜誌，或者直接下載整本雜誌的 PDF 檔案，其中 A5 比較適合在電腦或平板上閱讀，而 A4 則比較適合列印出來看。
-
-說明：DOT 檔則是雜誌的 LibreOffice 編輯原稿，可供直接剪貼程式碼，或後續衍生修改之用。
+您可以點選 [SlideShare 預覽] 或者 [docin 預覽] 等連結閱讀本雜誌，或者直接下載整本雜誌的 PDF 檔案，其中 PDF 比較適合在瀏覽，而 ODT 檔則是雜誌的 LibreOffice 編輯原稿，可供直接剪貼程式碼，或後續衍生修改之用。
 
 <center>
 <table width="95%">
-<tr><th>出刊年月</th><th>A5:PDF</th><th>A4:PDF</th><th>A5:ODT</th><th>A4:ODT</th><th>程式下載</th><th>原始碼</th></tr>
-<tr><td>2013年1月</td>
-<td><a href="https://github.com/programmermagazine/201301/blob/master/201301/ProgrammerMag201301A5.pdf?raw=true">A5.pdf</a></td>
-<td><a href="https://github.com/programmermagazine/201301/blob/master/201301/ProgrammerMag201301A4.pdf?raw=true">A4.pdf</a></td>
-<td><a href="https://github.com/programmermagazine/201301/blob/master/201301/ProgrammerMag201301A5.odt?raw=true">A5.odt</a></td>
-<td><a href="https://github.com/programmermagazine/201301/blob/master/201301/ProgrammerMag201301A4.odt?raw=true">A4.odt</a></td>
-<td><a href="https://github.com/programmermagazine/code201301/archive/master.zip">Zip</a></td>
-<td><a href="https://github.com/programmermagazine/code201301/">source</a></td>
+<tr><th>書名</th><th>PDF</th><th>ODT</th><th>下載</th><th>原始碼</th></tr>
+<tr><td>語言處理技術</td>
+<td><a href="https://github.com/ccckmit/BookLanguageProcessing/blob/master/doc/clBook.pdf?raw=true">clBook.pdf</a></td>
+<td><a href="https://github.com/ccckmit/BookLanguageProcessing/blob/master/doc/clBook.odt?raw=true">clBook.odt</a></td>
+<td><a href="https://github.com/ccckmit/BookLanguageProcessing/archive/master.zip">Zip</a></td>
+<td><a href="https://github.com/ccckmit/BookLanguageProcessing/tree/master/code">source</a></td>
 </tr>
 </table>
 </center>
 
 ### 本書內容
-內容目錄
-第1章 簡介	11
+```
+第1章 簡介 11
  1.1.語言的種類	11
  1.1.1.自然語言	13
  1.1.2.標記語言	15
@@ -104,6 +100,7 @@
  9.3.3.雙語詞彙的對齊問題 (Word Alignment)	169
  9.3.4.優化問題 (Optimization)	170
  9.4.結語
+```
 
 ### 資源下載
 如果您想用 git 下載本書程式碼，請使用 git clone 指令如下：
@@ -113,8 +110,8 @@ $ git clone https://github.com/ccckmit/BookLanguageProcessing.git
 ```
 
 ### 連絡我們
-本書作者為「陳鍾誠 (@ccckmit)」，若要聯絡編輯，請寄信到 ccckmit@gmail.com。
+本書作者為「陳鍾誠 (@ccckmit)」，若要聯絡作者，請寄信到 ccckmit@gmail.com。
 
-[SlideShare 預覽]: http://www.slideshare.net/ccckmit/2013-1-15836437
-[docin 預覽]: http://www.docin.com/p1-571105593.html
+[SlideShare 預覽]: http://www.slideshare.net/ccckmit/ss-15898210
+[docin 預覽]: http://www.docin.com/p1-575994404.html
 [創作共用：姓名標示、非商業性、相同方式分享授權]: http://creativecommons.org/licenses/by-nc-sa/3.0/tw/
